@@ -1,6 +1,7 @@
 source "https://rubygems.org"
 
 
+gem "jekyll-theme-pirati", "~>0.3.0"
 gem "jekyll", "3.7.3"
 gem "jekyll-redirect-from", "0.12.1"
 gem "jekyll-paginate", "1.1.0"
